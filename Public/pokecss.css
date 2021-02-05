@@ -1,0 +1,43 @@
+.pokeframe{
+  border: outset;
+  border-radius: 17px;
+  background: rgba(242,242,242,1);
+  margin: 5px;
+}
+#cuerpo{
+  background-color: antiquewhite;
+  padding: 15px 35px 15px 35px;
+}
+#pokecrp{
+  place-content: center;
+}
+#encabezado{
+  height: 175px;
+  background-image:url(pokmeonbaner.jpg);
+  background-position-y: center;
+}
+#modalcont{
+  background-color: antiquewhite;
+  border-color: orange;
+  color: rgb(89, 50, 3);
+}
+
+#idpoke h3 {
+  text-align: right;
+}
+#imgpoke img{
+  height: 150px;
+  width: 150px;
+  background-color: rgba(242,242,242,1);
+  border-radius: 7px;
+  border: 1px solid orange;
+}
+#datospoke h6{
+  margin: 15px;
+  font-weight: bold;
+  font-size: 13px;
+}
+#nombrepoke,#idpoke{
+  font-style: italic;
+  font-size: 26px;
+}
